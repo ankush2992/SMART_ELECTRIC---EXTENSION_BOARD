@@ -9,7 +9,9 @@
 [![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Alexa](https://img.shields.io/badge/Alexa-00CAFF?style=flat&logo=amazon-alexa&logoColor=white)](https://alexa.amazon.com/)
 
-<img src="/api/placeholder/800/400" alt="Smart Power Hub Banner" />
+<p align="center">
+  <img src="./assets/banner.svg" alt="Smart Power Hub Banner" width="1200px" style="max-width: 100%;">
+</p>
 
 *Transform your ordinary power strip into a smart home powerhouse with voice control and mobile app integration!* 🚀
 
