@@ -46,8 +46,8 @@
 - Basic tools for assembly
 
 <div align="center">
-<img src="/api/placeholder/600/300" alt="Components Layout" />
-</div>
+<img src="./assets/component.jpg" alt="Project component" width="650">
+<p><b>Project Components</b></p>
 
 ## 🔧 Installation
 
