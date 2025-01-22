@@ -15,7 +15,7 @@
 
 *Transform your ordinary power strip into a smart home powerhouse with voice control and mobile app integration!* 🚀
 
-[Live Demo](https://your-demo-link) · [Report Bug](https://github.com/yourusername/smart-power-hub/issues) · [Request Feature](https://github.com/yourusername/smart-power-hub/issues)
+  [Report Bug](https://github.com/ankush2992/smart-power-hub/issues) · [Request Feature](https://github.com/ankush2992/smart-power-hub/issues)
 
 </div>
 
