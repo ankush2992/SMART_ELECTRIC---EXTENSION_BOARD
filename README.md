@@ -3,7 +3,7 @@
 # 🌟 Smart Home Power Hub
 ### Control Your World with Voice and Touch 🎮
 
-[![GitHub stars](https://img.shields.io/github/stars/ankush2992/smart-power-hub?style=social)]
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
