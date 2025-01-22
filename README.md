@@ -124,6 +124,6 @@ Give a ⭐️ if this project helped you!
 
 <div align="center">
 
-Made with ❤️ by [Your Name](https://github.com/ankush2992)
+Made with ❤️ by [ANKUSH](https://github.com/ankush2992)
 
 </div>
