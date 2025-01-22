@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#1a1a1a"/>
+  
+  <!-- Circuit Board Pattern -->
+  <path d="M0 50 H1200 M0 100 H1200 M0 150 H1200 M0 200 H1200 M0 250 H1200" 
+        stroke="#333" stroke-width="1" opacity="0.3"/>
+  <path d="M50 0 V300 M150 0 V300 M250 0 V300 M350 0 V300 M450 0 V300 M550 0 V300 M650 0 V300 M750 0 V300 M850 0 V300 M950 0 V300 M1050 0 V300 M1150 0 V300" 
+        stroke="#333" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Main Title -->
+  <text x="600" y="120" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#00ff88" text-anchor="middle">
+    Smart Power Hub
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="180" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">
+    Control Your World with Voice and Touch
+  </text>
+  
+  <!-- Icons -->
+  <circle cx="400" cy="220" r="15" fill="#00ff88"/>
+  <circle cx="600" cy="220" r="15" fill="#00ff88"/>
+  <circle cx="800" cy="220" r="15" fill="#00ff88"/>
+  
+  <!-- Connection Lines -->
+  <path d="M400 220 H800" stroke="#00ff88" stroke-width="2" opacity="0.5"/>
+</svg>
