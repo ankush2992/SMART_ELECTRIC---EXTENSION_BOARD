@@ -29,9 +29,12 @@
 - 🔐 **Secure** - Encrypted communication and secure cloud connectivity
 
 <div align="center">
-<img src="/api/placeholder/600/300" alt="Project Demo GIF" />
-</div>
+<img src="./assets/demo1.jpg" alt="Project Demo 1" width="600">
+<p><b>Project Setup in Action</b></p>
 
+<img src="./assets/demo2.jpg" alt="Project Demo 2" width="600">
+<p><b>Final Assembled Device</b></p>
+</div>
 ## 🛠️ Hardware Requirements
 
 ### Components Needed
