@@ -21,14 +21,14 @@
 
 #define SWITCH_ID_4       "65f3719d60d81635d1c806f7"
 #define RELAYPIN_4        14
-
+ 
 #define SWITCH_ID_2       "65f371b060d81635d1c8071b"
 #define RELAYPIN_2        12
 
 #define SWITCH_ID_3       "65f371bd60d81635d1c8073b"
 #define RELAYPIN_3        13
 
-#define BAUD_RATE         115200                // Change baudrate to your need
+#define BAUD_RATE         115200                // Change baudrate to your need.
 
 bool onPowerState1(const String &deviceId, bool &state) {
  Serial.printf("Device 4 turned %s", state?"on":"off");
