@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Smart Home Power Box
+# 🌟 Smart Home Power Box.
 ### Control Your World with Voice and Touch 🎮
 
 
