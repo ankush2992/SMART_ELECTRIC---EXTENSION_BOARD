@@ -26,7 +26,7 @@
 - 🗣️ **Voice Control** - Compatible with Alexa and Google Assistant through SinricPro
 - 📱 **Mobile App** - Control from anywhere using the SinricPro mobile app and inbuilt Google-Home device manager
 - ⚡ **Real-time Updates** - Instant status feedback and power state monitoring
-- 🔐 **Secure** - Encrypted communication and secure cloud connectivity
+- 🔐 **Secure** - Encrypted communication and secure cloud connectivity  .
 
 <div align="center">
 <img src="./assets/demo1.jpg" alt="Project Demo 1" width="600">
