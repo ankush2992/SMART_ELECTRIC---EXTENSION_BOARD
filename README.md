@@ -9,7 +9,7 @@
 [![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Alexa](https://img.shields.io/badge/Alexa-00CAFF?style=flat&logo=amazon-alexa&logoColor=white)](https://alexa.amazon.com/)
 
-<p align="center">
+<p align="center"> 
   <img src="./assets/banner.svg" alt="Smart Power Hub Banner" width="1200px" style="max-width: 100%;">
 </p>
 
